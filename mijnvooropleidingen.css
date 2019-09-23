@@ -1,0 +1,48 @@
+
+.elektrobord {
+	float: left;
+	margin-right: 10px;
+	border:2px solid black;
+	display: block;
+}
+.videobord {
+	float: right;
+	border: 2px solid black;
+	display: block;
+}
+
+.kleinebord {
+	float: left;
+	display: block;
+	border: 2px solid black
+}
+body {
+	background: url(https://images.pexels.com/photos/1903702/pexels-photo-1903702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+}
+
+.homeLink {
+color: white;
+
+}
+
+.homeLink:hover{
+	color: red;
+	text-decoration: none;
+	font-size: 20px
+
+}
+
+.pneumatiekvid {
+	float: right;
+	border: 2px solid black
+	display: block;
+}
+
+.pneuma{
+	margin-left: 4px;
+	border: 2px solid black
+	display: block;
+}
+
+.

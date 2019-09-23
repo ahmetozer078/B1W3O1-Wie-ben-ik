@@ -1,0 +1,11 @@
+body{
+	background: url(https://free-pptbackgrounds.com/wp-content/uploads/2019/04/sea-edge-cold-pptbackgrounds.png);
+	background-size: cover;
+
+}
+
+.HomePagina:hover{
+	color: black;
+	text-decoration: none;
+	font-size: 20px
+}
